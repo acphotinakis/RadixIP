@@ -1,0 +1,107 @@
+commit 989ef25307024b40fea7be8a7af5bc220bd0d538
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Sun Nov 20 21:59:48 2022 -0500
+
+    actually finished search for ranges now working on ip
+
+commit fba6e44e93e3c1011358ebcf935e57baf02ef744
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Sun Nov 20 18:15:32 2022 -0500
+
+    done with this project i hate it
+
+commit d936363910c029edb9235e327f762ee4efaac448
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Fri Nov 18 15:34:50 2022 -0500
+
+    working on searching
+
+commit 9953db10d01c1e1507c46df1b254ec4e6ccc9d97
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Thu Nov 17 13:52:35 2022 -0500
+
+    fixed insertion properly, turns out i was reading the bit numbers wrong
+
+commit 0ac86235abbf17232168cc23a396776e8d615c96
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Wed Nov 16 15:21:57 2022 -0500
+
+    finished finding closest entry to a node
+
+commit aaf45f9af015acaffaa76b3b6505c6f4a8f99794
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Tue Nov 15 23:21:17 2022 -0500
+
+    finished with insertion, going to work on the searching and query
+
+commit 3a325d00986060a3a5f2bbf43045545440c2c968
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Tue Nov 15 15:03:54 2022 -0500
+
+    working on drawing the tree to test insertion before moving on with searching for an entry
+
+commit f956ca7cb93ffcd254eb9df41234da5c968a4853
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Tue Nov 15 12:03:10 2022 -0500
+
+    working on query assuming entry is right
+
+commit 740292fb0457b804f95a212a1bce8a350c40c335
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Tue Nov 15 01:23:39 2022 -0500
+
+    committing before making mass changes
+
+commit 7a62e31c1530a93d734ec271168fd58903406f8a
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Tue Nov 15 00:38:30 2022 -0500
+
+    fixed insertion, going to start working on searching for entries
+
+commit 4aa670cfb08323018d128fc60569b21bca266959
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Mon Nov 14 17:41:01 2022 -0500
+
+    almost finished fixing all bugs for the insert
+
+commit ab88bfcae4178fde197d8781b942d95a1cc9f2da
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Sun Nov 13 11:31:52 2022 -0500
+
+    trying to fix insertion bug
+
+commit b8d5680a36bbe24dcc37498abb9cbe334adc8948
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Sat Nov 12 15:36:44 2022 -0500
+
+    fixing bugs on inserting
+
+commit bde889cbea260718abeef85ed6356ed933f86c5e
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Fri Nov 11 15:32:06 2022 -0500
+
+    finishing initial construction of insert and search, going to run more tests to find and fix bugs
+
+commit 67d29af43d19e71d22307ee889da0fb44c5adf64
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Fri Nov 11 14:45:09 2022 -0500
+
+    working on trie insertion and search
+
+commit a6fbacd92578e976db1b9361f1fbd9869916065e
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Tue Nov 8 16:28:23 2022 -0500
+
+    working on extracting bits from the ip addresses
+
+commit 0ecfb3314403630c184867aff9b40aef1376d1c1
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Sat Nov 5 16:56:52 2022 -0400
+
+    working on building the tree, just finished handling the file
+
+commit ec7aa0ea01b1db7042b64553bb07c6c62a0206e8
+Author: Andrew C   <acp7795@cs.rit.edu>
+Date:   Mon Oct 24 10:38:35 2022 -0400
+
+    project provided materials
